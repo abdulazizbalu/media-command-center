@@ -14,6 +14,8 @@ Complexity: **Level 2**
 
 Media Command Center prioritizes content ideas by business value, effort, channel fit, and campaign timing.
 
+![Preview](./assets/preview.svg)
+
 ## Demo
 
 Open `public/index.html` to view the campaign dashboard.
@@ -21,6 +23,14 @@ Open `public/index.html` to view the campaign dashboard.
 ## Live Demo
 
 `https://abdulazizbalu.github.io/media-command-center/`
+
+## Case Study
+
+**Problem:** creators collect ideas everywhere, then publish whatever feels easiest.
+
+**Solution:** score every idea by impact, confidence, effort, and channel fit, then turn the best ideas into a weekly plan.
+
+**What it shows:** digital media strategy, prioritization logic, and dashboard UI thinking.
 
 ## Highlights
 

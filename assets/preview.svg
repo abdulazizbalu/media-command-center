@@ -1,0 +1,21 @@
+<svg width="1200" height="680" viewBox="0 0 1200 680" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="680" rx="28" fill="#F3F7F6"/>
+  <circle cx="180" cy="80" r="230" fill="#005F73" fill-opacity="0.14"/>
+  <circle cx="1060" cy="610" r="260" fill="#EE9B00" fill-opacity="0.18"/>
+  <text x="70" y="100" fill="#005F73" font-family="Arial" font-size="24" font-weight="800">MEDIA COMMAND CENTER</text>
+  <text x="70" y="165" fill="#15202B" font-family="Arial" font-size="56" font-weight="800">Plan content like a campaign.</text>
+  <rect x="70" y="230" width="320" height="110" rx="18" fill="white" stroke="#D1D5DB"/>
+  <rect x="420" y="230" width="320" height="110" rx="18" fill="white" stroke="#D1D5DB"/>
+  <rect x="770" y="230" width="320" height="110" rx="18" fill="white" stroke="#D1D5DB"/>
+  <text x="105" y="295" fill="#005F73" font-family="Arial" font-size="42" font-weight="800">4</text>
+  <text x="455" y="295" fill="#005F73" font-family="Arial" font-size="42" font-weight="800">22.5</text>
+  <text x="805" y="295" fill="#005F73" font-family="Arial" font-size="42" font-weight="800">3</text>
+  <rect x="70" y="380" width="530" height="220" rx="18" fill="white" stroke="#D1D5DB"/>
+  <rect x="630" y="380" width="500" height="220" rx="18" fill="white" stroke="#D1D5DB"/>
+  <text x="105" y="430" fill="#15202B" font-family="Arial" font-size="26" font-weight="800">Priority Queue</text>
+  <text x="665" y="430" fill="#15202B" font-family="Arial" font-size="26" font-weight="800">This Week</text>
+  <rect x="105" y="460" width="440" height="48" rx="10" fill="#E7F4F2"/>
+  <rect x="105" y="525" width="380" height="48" rx="10" fill="#FCECCB"/>
+  <rect x="665" y="460" width="390" height="48" rx="10" fill="#E7F4F2"/>
+  <rect x="665" y="525" width="330" height="48" rx="10" fill="#FCECCB"/>
+</svg>
