@@ -1,0 +1,20 @@
+{
+  "name": "media-command-center",
+  "version": "1.0.0",
+  "private": false,
+  "description": "A digital media strategy planner for ranking content ideas and building weekly campaign plans.",
+  "scripts": {
+    "test": "node tests/strategyPlanner.test.js"
+  },
+  "keywords": [
+    "media-strategy",
+    "content-planning",
+    "javascript",
+    "portfolio"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  }
+}
+
